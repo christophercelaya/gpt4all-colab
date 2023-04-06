@@ -1,7 +1,4 @@
-🐣 Please follow me for new updates https://twitter.com/camenduru <br />
-🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
-
-## GPT 4 All Colab
+## GPT 4 All Colab Notebok
 
 | Colab Page | Type | Device
 | --- | --- | --- |
